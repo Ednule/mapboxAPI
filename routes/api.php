@@ -22,3 +22,4 @@ Route::get('los-cabos', 'PinController@losCabos');
 Route::get('loreto', 'PinController@loreto');
 Route::get('comondu', 'PinController@comondu');
 Route::get('mulege', 'PinController@mulege');
+Route::get('marcadores', 'PinController@index');
